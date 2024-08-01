@@ -1,0 +1,14 @@
+@charset "UTF-8";
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#preview {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}
